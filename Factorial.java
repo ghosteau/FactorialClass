@@ -1,6 +1,6 @@
 public class Factorial
 {
-    public long factorialRun(long number)
+    public static long factorialRun(long number)
     {
         // Initialize the result
         long result = 1;
@@ -34,4 +34,3 @@ public class Factorial
     }
 
 }
-
